@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ramavath Jagadeesh</h1>
+<h1 align="center">Hi 👋, I'm Jagadeesh</h1>
 <h3 align="center">Web developer and ethical hacker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeesh17402&label=Profile%20views&color=0e75b6&style=flat" alt="jagadeesh17402" /> </p>
 
-- 🔭 I’m currently working on **django**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **app development**
 
 - 📫 How to reach me **r.jagadeesh174@gmail.com**
 
