@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramavath Jagadeesh</h1>
-<h3 align="center"> Ml developer </h3>
+<h3 align="center"> ML Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeesh17402&label=Profile%20views&color=0e75b6&style=flat" alt="jagadeesh17402" /> </p>
 
