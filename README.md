@@ -2,7 +2,7 @@
 <h3 align="center"> ML Developer </h3>
 
 <div align="center">
-        <img src="https://imgur.com/a/lTZHIy3" class="centered" alt="" width="100" height="100">
+        <img src="https://ibb.co/jGgh4d5" class="centered" alt="https://ibb.co/jGgh4d5" width="100" height="100">
     </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeesh17402&label=Profile%20views&color=0e75b6&style=flat" alt="jagadeesh17402" /> </p>
 
