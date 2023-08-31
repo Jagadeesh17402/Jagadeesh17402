@@ -11,11 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_jagadeesh_74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jagadeesh_174" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ramavathjagadeesh/" class="social-icon si-rounded si-small si-linkedin">
-    <i class="icon-linkedin"></i>
-    <i class="icon-linkedin"></i>
- </a>
+<a href="https://instagram.com/_jagadeesh_174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jagadeesh_174" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ramavathjagadeesh/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="_jagadeesh_174" height="30" width="40" /></a>
+
   
 </p>
 
