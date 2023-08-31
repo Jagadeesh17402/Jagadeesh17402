@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ramavath Jagadeesh</h1>
-<h3 align="center">Web developer and ethical hacker</h3>
+<h3 align="center"> Ml developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeesh17402&label=Profile%20views&color=0e75b6&style=flat" alt="jagadeesh17402" /> </p>
 
-- 🔭 I’m currently working on **django**
+- 🔭 I’m currently working on **Deep learning**
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **Deep learning**
 
-- 📫 How to reach me **r.jagadeesh174@gmail.com**
+- 📫 How to reach me **ramavathjagadeesh1210@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_jagadeesh-174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jagadeesh-174" height="30" width="40" /></a>
+<a href="https://instagram.com/_jagadeesh_74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jagadeesh_174" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ramavathjagadeesh/" class="social-icon si-rounded si-small si-linkedin">
+    <i class="icon-linkedin"></i>
+    <i class="icon-linkedin"></i>
+ </a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
