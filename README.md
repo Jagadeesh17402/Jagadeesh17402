@@ -2,7 +2,7 @@
 <h3 align="center"> ML Developer </h3>
 
 <div align="center">
-       <a href="https://ibb.co/jGgh4d5"><img src="https://i.ibb.co/4MPWNcf/Whats-App-Image-2023-08-30-at-12-06-29-AM.jpg" alt="Whats-App-Image-2023-08-30-at-12-06-29-AM" border="0" width="150" height="200"></a>
+      <a href="https://ibb.co/yS0bBjk"><img src="https://i.ibb.co/74v6Nmp/DSC-1732.jpg" alt="DSC-1732" border="0" width="200" height="200"></a>
     </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeesh17402&label=Profile%20views&color=0e75b6&style=flat" alt="jagadeesh17402" /> </p>
 
